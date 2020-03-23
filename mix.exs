@@ -58,7 +58,7 @@ defmodule NervesSystemRpi4.MixProject do
 
   defp description do
     """
-    Nerves System - Raspberry Pi 4
+    Nerves System - Raspberry Pi 4 + ImageMagick (JPEG, PNG, TIFF)
     """
   end
 
